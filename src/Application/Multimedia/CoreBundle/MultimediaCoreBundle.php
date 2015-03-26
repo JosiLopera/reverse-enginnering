@@ -10,3 +10,5 @@ class MultimediaCoreBundle extends Bundle
 		return 'ApplicationSonataPageBundle';
 	}
 }
+
+
